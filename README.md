@@ -1,0 +1,2 @@
+# Continuation_Writing_Helper
+一个帮助高中英语学习者学习读后续写写作的AI应用
